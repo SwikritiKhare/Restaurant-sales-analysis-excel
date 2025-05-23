@@ -1,6 +1,6 @@
 RESTAURANT SALES DATA ANALYSIS 
 
-BACKGROUND ![Image alt](https://github.com/SwikritiKhare/Restaurant-sales-analysis-excel/blob/main/background%20image/RESTAURANT%20MARKET.jpg?raw=true)
+![Image alt](https://github.com/SwikritiKhare/Restaurant-sales-analysis-excel/blob/main/background%20image/RESTAURANT%20MARKET.jpg?raw=true)
 
 This project focuses on analyzing restaurant sales data to uncover key trends and provide actionable business insights using Microsoft Excel and Power Query.
 
