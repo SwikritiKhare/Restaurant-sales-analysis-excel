@@ -46,6 +46,7 @@ Korean Beef Bowl
 Cheeseburger
 
 French Fries
+
 ![Image alt](https://github.com/SwikritiKhare/Restaurant-sales-analysis-excel/blob/main/background%20image/Screenshot%202025-06-10%20124317.png)
 
 **Time Trends:**
@@ -56,7 +57,7 @@ Peak order hours: 12–2 PM and 4–7 PM
 
 Busiest hour of the day: 12 PM
 
-On Valentine's Day, most orders were placed in the evening, with a preference for Italian and Mexican cuisines.
+**On Valentines Day**, most orders were placed in the evening, with a preference for Italian and Mexican cuisines.
 
 ![Image alt](https://github.com/SwikritiKhare/Restaurant-sales-analysis-excel/blob/main/background%20image/Screenshot%202025-06-10%20124308.png)
 
