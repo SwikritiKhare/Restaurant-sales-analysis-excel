@@ -1,4 +1,4 @@
-RESTAURANT SALES DATA ANALYSIS (Meals, Metrics & Magic)
+# RESTAURANT SALES DATA ANALYSIS (Meals, Metrics & Magic)
 
 ![Image alt](https://github.com/SwikritiKhare/Restaurant-sales-analysis-excel/blob/main/background%20image/RESTAURANT%20MARKET.jpg?raw=true)
 
