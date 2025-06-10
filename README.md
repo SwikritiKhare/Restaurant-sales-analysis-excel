@@ -32,6 +32,8 @@ Asian food received more orders, but Italian food generated higher sales.
 
 Monday recorded the highest sales, followed by Sunday and Saturday.
 
+![Image alt]("C:\Users\khare\OneDrive\Pictures\Screenshots\restuarant\Screenshot 2025-06-10 124257.png")
+
 📈 Top 5 ordered items:
 
 Hamburgers
