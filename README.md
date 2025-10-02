@@ -78,5 +78,5 @@ Microsoft Excel (Power Query, Pivot Tables, Charts)
 Data Cleaning & Modeling
 
 Exploratory Data Analysis (EDA)
-![Image alt](https://github.com/SwikritiKhare/Restaurant-sales-analysis-excel/blob/main/background%20image/RESTAURANT%20MARKET.jpg?raw=true)
+![Image alt](https://github.com/SwikritiKhare/Restaurant-sales-analysis-excel/blob/main/Restuarant%20sales%20dashboard.png)
 
